@@ -1,0 +1,12 @@
+.navbar{
+    background-color: rgb(3, 44, 32);
+}
+
+.emp{
+   margin-left: 800px;
+}
+.btn{
+    font-weight: bold;
+    color:white;
+    border: 1.5px solid rgb(40, 167, 40);
+}

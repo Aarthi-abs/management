@@ -1,0 +1,28 @@
+.box{
+    width: 60% !important;/*!important-first priority to get width*/ 
+    margin: 50px 300px !important;
+    background-color: rgb(2, 68, 48);
+    color: white;
+    padding: 50px;
+}
+.input{
+    width:300%;
+    margin-left: -200px;
+}
+label{
+    margin-left: -200px; 
+    font-weight: bold;
+}
+
+
+.btn{
+    background-color: rgb(7, 243, 172);
+    border: 1px solid rgb(7, 243, 172);
+    color: rgb(3, 44, 32);
+    font-weight: bold;
+    width:300%;
+    margin-left: -200px;
+}
+.cls{
+    margin-left: -200px;
+}

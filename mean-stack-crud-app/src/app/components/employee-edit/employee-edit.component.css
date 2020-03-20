@@ -1,0 +1,41 @@
+.box{
+    width: 60% !important;/*!important-first priority to get width*/ 
+    margin: 50px 300px !important;
+    background-color: rgb(3, 77, 54);
+    color: white;
+    padding: 50px;
+}
+.head{
+    background-color: rgb(7, 247, 171);
+    padding: 30px;
+    width:250%;
+    margin-left: -170px;
+    color: rgb(3, 77, 54);
+    border-radius: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.input{
+    width:300%;
+    margin-left: -190px;
+}
+/* .input1{
+    width:300%;
+    margin-left: -192px;
+} */
+label{
+    margin-left: -190px; 
+    font-weight: bold;
+}
+
+
+.btn{
+    background-color: rgb(8, 247, 171);
+    border: 1px solid rgb(8, 247, 171);
+    color: rgb(3, 77, 54);
+    font-weight: bold;
+    width:300%;
+    margin-left: -190px;
+}
+.cls{
+    margin-left: -190px;
+}
